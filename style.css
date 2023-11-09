@@ -1,0 +1,9 @@
+div, button, p {
+display: flex;
+    justify-content: start;
+    margin: 5px 5px 5px;
+}
+body, head {
+    background-color: darkgray;
+    font-size: large;
+}
